@@ -1,8 +1,7 @@
 ### Olá, eu sou o Rodrigo Medeiros
 ### Desenvolvedor front-end 
 
-- 🔭 Hoje trabalho com analista de dados
-- 🌱 Estudando back-end 
+- 🔭 Hoje trabalho como analista de dados
 
 <div align="center">
   <a href="https://github.com/rodrigoMedeiros0">
