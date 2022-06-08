@@ -1,5 +1,4 @@
-### Olá, eu sou o Rodrigo Medeiros
-### Desenvolvedor front-end 
+### Olá, eu sou o Rodrigo Medeiros! Sou Desenvolvedor Front-end. 
 
 - 🔭 Hoje trabalho como analista de dados
 
