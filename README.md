@@ -1,10 +1,10 @@
 ### Olá, eu sou o Rodrigo Medeiros! Sou Desenvolvedor Front-end. 
 
-- 🤔  Buscando me deselvolver pessoalmente e profissionalmente 1% a cada dia.
+- 🤔  Buscando me deselvolver pessoalmente e profissionalmente 1% a cada dia
 - 💻  Tenho conhecimento de HTML5 e CSS3 
-- 🌱  Estou aprendendo ferramentas como Bootstrap e Sass. 
+- 🌱  Estou aprendendo ferramentas como Bootstrap e Sass
 - 💼  Trabalhando como business analyst na <a href="https://www.gov.br/prf/pt-br">Polícia Rodoviária Federal</a>
-- 🌱  Aprendendo mais sobre html e css .  
+
 
 <div align="center">
   <a href="https://github.com/rodrigoMedeiros0">
