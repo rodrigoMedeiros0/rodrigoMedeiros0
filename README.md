@@ -1,8 +1,10 @@
 ### Olá, eu sou o Rodrigo Medeiros! Sou Desenvolvedor Front-end. 
 
 - 🤔 &nbsp; Buscando me deselvolver pessoalmente e profissionalmente 1% a cada dia.
+- 💻 Tenho conhecimento de HTML5 e CSS3 
+- 🌱 &nbsp; Estou aprendendo ferramentas como Bootstrap e Sass. 
 - 💼 &nbsp; Trabalhando como business analyst na <a href="https://www.gov.br/prf/pt-br">Polícia Rodoviária Federal</a>
-- 🌱 &nbsp; Aprendendo mais sobre html css e Javascript.  
+- 🌱 &nbsp; Aprendendo mais sobre html e css .  
 
 <div align="center">
   <a href="https://github.com/rodrigoMedeiros0">
@@ -10,11 +12,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoMedeiros0&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+  <img align="center" alt="Rafa-SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
   
  ##
