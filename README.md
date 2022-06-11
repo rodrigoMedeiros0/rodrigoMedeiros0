@@ -1,4 +1,4 @@
-### Olá, eu sou o Rodrigo Medeiros! Sou Desenvolvedor Front-end. 
+### Olá, eu sou o Rodrigo Medeiros! Sou Desenvolvedor Web. 
 
 - 🤔  Buscando me deselvolver pessoalmente e profissionalmente 1% a cada dia
 - 💻  Tenho conhecimento de HTML5 e CSS3 
