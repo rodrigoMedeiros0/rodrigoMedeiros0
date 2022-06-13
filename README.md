@@ -4,6 +4,7 @@
 - 💻  Tenho conhecimento de HTML5 e CSS3 
 - 🌱  Estou aprendendo ferramentas como Bootstrap e Sass
 - 💼  Trabalhando como business analyst na <a href="https://www.gov.br/prf/pt-br">Polícia Rodoviária Federal</a>
+- ⚡  Curiosidade: Acordo todos os dias 5h da manhã e pratico jiu jitsu
 
 
 <div align="center">
