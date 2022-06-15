@@ -1,4 +1,5 @@
-### Olá, eu sou o Rodrigo Medeiros! Sou Desenvolvedor Web. 
+# Olá, me chamo Rodrigo ! Sou Desenvolvedor Web. 
+### Bem vindo ao meu perfil GitHub 👋
 
 - 🤔  Buscando me deselvolver pessoalmente e profissionalmente 1% a cada dia
 - 💻  Tenho conhecimento de HTML5 e CSS3 
