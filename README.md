@@ -3,9 +3,9 @@
 
 - 🤔  Buscando me deselvolver pessoalmente e profissionalmente 1% a cada dia
 - 💻  Tenho conhecimento de HTML5 e CSS3 
-- 🌱  Estou aprendendo ferramentas como Bootstrap e Sass
-- 💼  Trabalhando como business analyst na <a href="https://www.gov.br/prf/pt-br">Polícia Rodoviária Federal</a>
-- ⚡  Curiosidade: Acordo todos os dias 5h da manhã e pratico jiu jitsu
+- 🌱  Projeto mais recente: https://rodrigomedeiros0.github.io/Rodrigo-Website/ 
+- 💼  Estagiário na <a href="https://www.gov.br/prf/pt-br">Polícia Rodoviária Federal e atuando na área de dados.</a>
+- ⚡  Curiosidade: Gosto de praticar jiu jitsu e gosto de jogos. 
 
 
 <div align="center">
