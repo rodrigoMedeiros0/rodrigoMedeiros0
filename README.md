@@ -4,7 +4,7 @@
 - 🤔  Buscando me deselvolver pessoalmente e profissionalmente 1% a cada dia
 - 💻  Tenho conhecimento de HTML5 e CSS3 
 - 🌱  Projeto mais recente: https://rodrigomedeiros0.github.io/Rodrigo-Website/ 
-- 💼  Estagiário na <a href="https://www.gov.br/prf/pt-br">Polícia Rodoviária Federal e atuando na área de dados.</a>
+- 💼  Estagiário na <a href="https://www.gov.br/prf/pt-br">Polícia Rodoviária Federal</a> e atuando na área de dados.
 - ⚡  Curiosidade: Gosto de praticar jiu jitsu e gosto de jogos. 
 
 
