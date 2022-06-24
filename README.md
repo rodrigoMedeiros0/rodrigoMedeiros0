@@ -1,4 +1,5 @@
 # 💫 Sobre:
+Oii, sou o Rodrigo Medeiros 👋
 💻  Tenho conhecimentos em HTML5, CSS3 e Bootstrap<br> 
 🌱  Projeto mais recente: https://rodrigomedeiros0.github.io/Rodrigo-Website/<br>
 💼  Minha primeira experiência na área Tech foi como estagiário na Rodoviária Federal e atuando na área de dados.<br>
