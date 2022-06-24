@@ -15,6 +15,6 @@
 ## 🏆 GitHub Troféus
 ![](https://github-profile-trophy.vercel.app/?username=rodrigomedeiros0&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-### ✍️ Inspiração
+### ✍️ Nota
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
