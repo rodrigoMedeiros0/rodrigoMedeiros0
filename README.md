@@ -1,12 +1,11 @@
-# Olá, me chamo Rodrigo ! Sou Desenvolvedor Web. 
+# Olá, me chamo Rodrigo! Sou Desenvolvedor Front-end. 
 ### Bem vindo ao meu perfil GitHub 👋
 
-- 🤔  Buscando me deselvolver pessoalmente e profissionalmente 1% a cada dia
-- 💻  Tenho conhecimento de HTML5 e CSS3 
-- 🌱  Projeto mais recente: https://rodrigomedeiros0.github.io/Rodrigo-Website/ 
-- 💼  Estagiário na <a href="https://www.gov.br/prf/pt-br">Polícia Rodoviária Federal</a> e atuando na área de dados.
-- ⚡  Curiosidade: Gosto de praticar jiu jitsu e gosto de jogos. 
-
+- 💻  Tenho conhecimento de HTML5, CSS3 e Bootstrap
+- 🌱  Projeto mais recente: https://rodrigomedeiros0.github.io/Rodrigo-Website/
+- 🤔  Buscando me deselvolver pessoalmente e profissionalmente melhor a cada dia
+- 💼  Minha primeira experiência na área Tech foi como estagiário na <a href="https://www.gov.br/prf/pt-br">Polícia Rodoviária Federal</a> e atuando na área de dados.
+- ⚡  Curiosidade: Gosto de praticar jiu jitsu e de jogos. 
 
 <div align="center">
   <a href="https://github.com/rodrigoMedeiros0">
