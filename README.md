@@ -1,32 +1,26 @@
-# Olá, me chamo Rodrigo! Sou Desenvolvedor Front-end. 
-### Bem vindo ao meu perfil GitHub 👋
+ # 💫 About Me:
+💻  Tenho conhecimentos em HTML5, CSS3 e Bootstrap<br>🌱  Projeto mais recente: https://rodrigomedeiros0.github.io/Rodrigo-Website/<br>💼  Minha primeira experiência na área Tech foi como estagiário na Rodoviária Federal e atuando na área de dados.<br>⚡  Curiosidade: Gosto de praticar jiu jitsu e de jogos. 
 
-- 💻  Tenho conhecimento de HTML5, CSS3 e Bootstrap
-- 🌱  Projeto mais recente: https://rodrigomedeiros0.github.io/Rodrigo-Website/
-- 🤔  Buscando me deselvolver pessoalmente e profissionalmente melhor a cada dia
-- 💼  Minha primeira experiência na área Tech foi como estagiário na <a href="https://www.gov.br/prf/pt-br">Polícia Rodoviária Federal</a> e atuando na área de dados.
-- ⚡  Curiosidade: Gosto de praticar jiu jitsu e de jogos. 
 
-<div align="center">
-  <a href="https://github.com/rodrigoMedeiros0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoMedeiros0&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoMedeiros0&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  
- <div style="display: inline_block"><br>
-  <img align="center" alt="rodrigo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="rodrigo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="rodrigo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="rodrigo-JAVA" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-</div>
-  
- ##
- 
-<div> 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rodrigo_.medeiros) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo--medeiros) 
 
-   <a href="https://www.linkedin.com/in/rodrigo--medeiros/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:rodrigovinicius.bsb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  <a href="https://instagram.com/rodrigo_.medeiros/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
-</div>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rodrigomedeiros0&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rodrigomedeiros0&theme=shades-of-purple&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomedeiros0&theme=shades-of-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rodrigomedeiros0&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
+---
+[![](https://visitcount.itsvg.in/api?id=rodrigomedeiros0&icon=0&color=0)](https://visitcount.itsvg.in)
+
