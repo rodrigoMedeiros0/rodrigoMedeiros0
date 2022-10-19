@@ -1,7 +1,7 @@
 # 💫 Sobre:
  👋  Oii, sou o Rodrigo Medeiros <br>
  💻  Tenho conhecimentos em React, Javascript, HTML5, CSS3, Node e Bootstrap<br> 
- 🌱  Projeto mais recente: https://github.com/rodrigoMedeiros0/project-iphone-imc<br>
+ 🌱  Projeto mais recente: https://github.com/rodrigoMedeiros0/projeto-secret-word<br>
  💼  Minha primeira experiência na área Tech foi como estagiário na Polícia Rodoviária Federal atuando na área de dados.<br>
  ⚡  Curiosidade: Gosto de praticar jiu jitsu e de jogos. 
 
