@@ -1,9 +1,13 @@
 # 💫 Sobre:
  👋  Oii, sou o Rodrigo Medeiros <br>
  💻  Tenho conhecimentos em React, Javascript, HTML5, CSS3, Node e Bootstrap<br> 
- 🌱  Projeto mais recente: https://github.com/rodrigoMedeiros0/project-amazonia<br>
  💼  Minha primeira experiência na área Tech foi como estagiário na Polícia Rodoviária Federal atuando na área de dados.<br>
- ⚡  Curiosidade: Gosto de praticar jiu jitsu e de jogos. 
+ ⚡  Curiosidade: Gosto de praticar jiu jitsu e de jogos. <br>
+ 🌱  Principais Projetos:
+ 
+ -  https://github.com/rodrigoMedeiros0/Project-amazonia
+ -  https://github.com/rodrigoMedeiros0/Project-DigimonAPI
+ -  https://github.com/rodrigoMedeiros0/Project-iphone-imc
 
 ## 🌐 Mídia Social :
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo--medeiros)  
