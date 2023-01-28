@@ -3,9 +3,10 @@
  💻  Sou Desenvolvedor Web full stack com php, laravel, javascript, html, css, bootstrap, sass, webpack, npm<br> 
  💼  Minha primeira experiência na área Tech foi como estagiário na Polícia Rodoviária Federal atuando na área de dados<br>
  ⚡  Curiosidade: Gosto de jogos de tabuleiro e anime<br>
- 🌱  Principal Projeto:
+ 🌱  Principais Projetos:
  
  -  https://github.com/rodrigoMedeiros0/crud-php-jquery
+ -  https://github.com/rodrigoMedeiros0/Project-amazonia
 
 ## 🌐 Mídia Social :
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo--medeiros)  
