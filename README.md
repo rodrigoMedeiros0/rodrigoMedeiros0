@@ -1,7 +1,6 @@
 # 💫 Sobre:
  👋  Oii, sou o Rodrigo Medeiros <br>
- 💻  Sou Desenvolvedor Web full stack com php, laravel, javascript, html, css, bootstrap, sass, webpack, npm<br> 
- 💼  Minha primeira experiência na área Tech foi como estagiário na Polícia Rodoviária Federal atuando na área de dados<br>
+ 💻  Sou Desenvolvedor Web full stackbr> 
  ⚡  Curiosidade: Gosto de jogos de tabuleiro e anime<br>
  🌱  Principais Projetos:
  
