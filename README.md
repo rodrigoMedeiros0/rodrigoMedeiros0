@@ -4,9 +4,9 @@
  ⚡  Curiosidade: Gosto de jogos de tabuleiro e anime<br>
  🌱  Principais Projetos:
  
- -  [Netflix](https://github.com/rodrigoMedeiros0/netflix-project-ReactAndFirebase)
- -  [Crud com PHP, JQuery e Mysql](https://github.com/rodrigoMedeiros0/crud-php-jquery)
- -  [Criação de uma ONG para ajudar a Amazônia](https://github.com/rodrigoMedeiros0/Project-amazonia)
+ -  [Reacriando o site daNetflix com React, Axios, Firebase e Tailwind](https://github.com/rodrigoMedeiros0/netflix-project-ReactAndFirebase)
+ -  [Crud com PHP, JQuery, Mysql e Bootsrtap](https://github.com/rodrigoMedeiros0/crud-php-jquery)
+ -  [Criação de uma ONG para ajudar a Amazônia com Javascript, HTML e CSS](https://github.com/rodrigoMedeiros0/Project-amazonia)
 
 ## 🌐 Mídia Social :
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo--medeiros)  
