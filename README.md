@@ -1,6 +1,6 @@
 # 💫 Sobre:
  👋  Olá, sou o Rodrigo Medeiros <br>
- 💻  Sou Desenvolvedor Web full stack <br> 
+ 💻  Sou Desenvolvedor Web Full-Stack <br> 
  ⚡  Curiosidade: Gosto de jogos de tabuleiro e anime<br>
  🌱  Principais Projetos:
  
