@@ -1,11 +1,11 @@
 # 💫 Sobre:
  👋  Olá, sou o Rodrigo Medeiros <br>
- 💻  Sou Desenvolvedor Web Full-Stack <br> 
+ 💻  Sou Desenvolvedor Web Full Stack <br> 
  ⚡  Curiosidade: Gosto de jogos de tabuleiro e anime<br>
- 💼  Projeto profissional: [JBN Construções ltda]( https://github.com/rodrigoMedeiros0/jbn-freelancer)
+ 💼  Projeto em destaque:[JBN Construções ltda]( https://github.com/rodrigoMedeiros0/jbn-freelancer)
 
  
- 🌱  Projetos pessoais:
+ 🌱  Outros projetos:
  
  -  [Utilizando API do GitHub para favoritar as ISSUES existentes e filtrar elas. Foi utilizado React com Axios](https://github.com/rodrigoMedeiros0/project-repositoryGIT)
  -  [Reacriando o site da Netflix com React, Axios, Firebase e Tailwind](https://github.com/rodrigoMedeiros0/netflix-project-ReactAndFirebase)
