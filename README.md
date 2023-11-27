@@ -2,7 +2,7 @@
  👋  Olá, sou o Rodrigo Medeiros <br>
  💻  Sou Desenvolvedor Web Full Stack <br> 
  ⚡  Curiosidade: Gosto de jogos de tabuleiro e anime<br>
- 💼  Projeto em destaque:[JBN Construções ltda]( https://github.com/rodrigoMedeiros0/jbn-freelancer)
+ 💼  Projeto em destaque:[ JBN Construções ltda]( https://github.com/rodrigoMedeiros0/jbn-freelancer)
 
  
  🌱  Outros projetos:
